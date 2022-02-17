@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RochelleFA
-- 👀 I’m interested in front-ende development
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me: https://www.linkedin.com/in/rochelle-alves-5b5758115/
